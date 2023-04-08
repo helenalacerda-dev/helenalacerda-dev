@@ -3,7 +3,7 @@
 #### Seja bem vindo ao meu GitHub :blush: 
 :mortar_board: Sou formada em Analise e Desenvolvimento de sistemas pela UNIP 
 :paw_prints: Sou mãe de um Auau
-:video_game: E sou apaixonada em jogos
+:video_game: Sou apaixonada em jogos
 
 ### :seedling: Estou aprendendo algumas linguagens de programação mas essas aqui já ganharam meu coração: 
 
